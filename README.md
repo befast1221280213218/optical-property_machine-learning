@@ -1,6 +1,6 @@
 # optical-property_machine-learning
 This is a model that transforms 2D images into performance predictions
-These code belonging to pjy991211@sjtu.edu.cn; zhongzhiyan@sjtu.edu.cn;zhouxiao113@sjtu.edu.cn
+These code belonging to pjy991211@sjtu.edu.cn; zhongzhiyan@sjtu.edu.cn;zhouxiao113@sjtu.edu.cn /n
 1.Phase0表示对整体进行相关性分析，得到每一个像素点与R相关性程度；
 2.Phase1表示用简单CNN方法进行性能预测；
 3.Phase2是采用Geninimi3中的FFN进行性能预测；
